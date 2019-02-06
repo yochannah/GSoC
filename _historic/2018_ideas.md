@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project Ideas
-permalink: /ideas/
+permalink: /ideas/2018/
 ---
 
 # Google Summer of Code 2018 Project ideas
